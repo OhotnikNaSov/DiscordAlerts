@@ -1,0 +1,7 @@
+name: DiscordAlerts
+version: '0.1'
+main: sova.discordAlerts.DiscordAlerts
+api-version: '1.21'
+authors: [ OhotnikNaSov ]
+description: Discord player notification plugin with support for discord formatting and embed
+website: https://discord.com/users/510580136748384259
